@@ -1,7 +1,7 @@
 # NutriVision: AI-Powered Food Analysis Dashboard
 
 ## Business Context
-Computer vision and recommendation systems are transforming industries from retail to manufacturing. This project demonstrates **deep learning for image classification** combined with an **optimization-based recommendation engine**—skills applicable to quality inspection, defect detection, and intelligent procurement systems.
+Computer vision and recommendation systems are transforming industries from retail to manufacturing. This project demonstrates **deep learning for image classification** combined with an **optimization-based recommendation engine**
 
 ## Project Highlights
 
